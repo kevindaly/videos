@@ -25,9 +25,10 @@ https://pypi.org/project/pyreadline/#files
 
 ## However if you have python installed with pip you can use the command 
 
-see ###video ##cqlsh installed without error
+see 
+### video ## cqlsh installed without error
 
-####After any changes to python you must restart the cqlsh environment, no need to restart cassandra
+### After any changes to python you must restart the cqlsh environment, no need to restart cassandra
 
 
 
